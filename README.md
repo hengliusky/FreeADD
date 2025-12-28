@@ -1,10 +1,10 @@
-# FreeDeMo
+# FreeADD
 <!-- ### This repo is under construction. Please stay tuned. -->
 
 <!-- [**🌐 Homepage**](https://tiger-ai-lab.github.io/ConsistI2V/) | [**📖 arXiv**](https://arxiv.org/abs/2402.04324) | [**🤗 Model**](https://huggingface.co/TIGER-Lab/ConsistI2V) | [**📊 I2V-Bench**](https://drive.google.com/drive/folders/1eg_vtowKZBen74W-A1oeO4bR1K21giks) | [**🤗 Space**](https://huggingface.co/spaces/TIGER-Lab/ConsistI2V) | [**🎬 Replicate Demo**](https://replicate.com/wren93/consisti2v)
 -->
 
-This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusion Model for Multi-Subject Image-to-Video Generation"
+This repo contains the codebase for "FreeADD: A Training-Free Attention Decoupled Diffusion Framework for Multi-Subject Image-to-Video Generation"
 
 
 <!--We propose ConsistI2V, a diffusion-based method to enhance visual consistency for I2V generation. Specifically, we introduce (1) spatiotemporal attention over the first frame to maintain spatial and motion consistency, (2) noise initialization from the low-frequency band of the first frame to enhance layout consistency. These two approaches enable ConsistI2V to generate highly consistent videos.
@@ -18,7 +18,7 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
   <img src="assets/example/index.png" width="100%"/>
 </div>
 <font size="13">Below, we present some of the effects achieved through our work.</font>
-<img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
+<img src="https://github.com/hengliusky/FreeADD/blob/main/assets/example/show.png" alt="FreeADD">
 <!-- <div align="center">
   <img src="assets/example/image1.png "width="100%"/>
   <img src="assets/example/image2.png "width="100%"/>
@@ -157,7 +157,7 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
 ```
-git clone https://github.com/hengliusky/FreeDeMo
+git clone https://github.com/hengliusky/FreeADD
 cd ConsistI2V
 
 conda env create -f environment.yaml
