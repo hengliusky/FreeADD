@@ -137,7 +137,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
   </table>
 </div>
 
-## Ground-truth videos for FVD
+## Ground-truth videos for FVD/CTC-PSNR/LPIPS
 <div align="center">
   <table>
     <tr>
