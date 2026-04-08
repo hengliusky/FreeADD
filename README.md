@@ -138,37 +138,37 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 </div>
 
 ## Ground-truth videos for FVD
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <div style="width:160px; text-align:center;"><img src="assets/example/cat.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/giraffe.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/girl_dog.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/00274.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/01035.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/00606.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/00329.png" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/02508.png" width="160"></div>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px;">
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/cat.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/giraffe.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/girl_dog.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/00274.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/01035.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/00606.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/00329.png" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/02508.png" width="160"></div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin: 8px 0;">
-    <div style="width:160px; text-align:center;">The cat is screaming, the snake is crawling.</div>
-    <div style="width:160px; text-align:center;">Two giraffes are slowly lowering their heads.</div>
-    <div style="width:160px; text-align:center;">The little girl is crawling forward, and the dog is running forward.</div>
-    <div style="width:160px; text-align:center;">The boy lookes at the girl, and the girl is smiling.</div>
-    <div style="width:160px; text-align:center;">The cow is eating grass and the dog is running forward.</div>
-    <div style="width:160px; text-align:center;">The boy takes off his glasses, and the girl is smiling.</div>
-    <div style="width:160px; text-align:center;">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</div>
-    <div style="width:160px; text-align:center;">The boy is reading a book while the dog opens its mouth and barks.</div>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px; margin: 8px 0;">
+    <div style="min-width:160px; text-align:center;">The cat is screaming, the snake is crawling.</div>
+    <div style="min-width:160px; text-align:center;">Two giraffes are slowly lowering their heads.</div>
+    <div style="min-width:160px; text-align:center;">The little girl is crawling forward, and the dog is running forward.</div>
+    <div style="min-width:160px; text-align:center;">The boy lookes at the girl, and the girl is smiling.</div>
+    <div style="min-width:160px; text-align:center;">The cow is eating grass and the dog is running forward.</div>
+    <div style="min-width:160px; text-align:center;">The boy takes off his glasses, and the girl is smiling.</div>
+    <div style="min-width:160px; text-align:center;">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</div>
+    <div style="min-width:160px; text-align:center;">The boy is reading a book while the dog opens its mouth and barks.</div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <div style="width:160px; text-align:center;"><img src="assets/example/cat_snake.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/two_giraffes.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/girl_dog.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/00274.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/01035.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/00606.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/00329.gif" width="160"></div>
-    <div style="width:160px; text-align:center;"><img src="assets/example/02508.gif" width="160"></div>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px;">
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/cat_snake.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/two_giraffes.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/girl_dog.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/00274.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/01035.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/00606.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/00329.gif" width="160"></div>
+    <div style="min-width:160px; text-align:center;"><img src="assets/example/02508.gif" width="160"></div>
 </div>
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
