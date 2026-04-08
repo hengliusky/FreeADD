@@ -195,7 +195,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>GT Videos</b></td>
+      <td align="center" width="120"><b>Grount-truth videos</b></td>
       <td align="center">
         <img src="assets/example/cat_snake.gif" width="160"/>
       </td>
