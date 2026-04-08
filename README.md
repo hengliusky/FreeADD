@@ -230,7 +230,7 @@ git clone https://github.com/hengliusky/FreeADD
 cd ConsistI2V
 
 conda env create -f environment.yaml
-conda activate freeDeMo
+conda activate FreeADD
 ```
 
 ## Inference
