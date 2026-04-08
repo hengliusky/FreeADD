@@ -156,14 +156,14 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 <!-- 第一行：8张图片 -->
 <table>
     <tr>
-        <td align="center"><img src="assets/example/cat.png" width="100"/></td>
-        <td align="center"><img src="assets/example/giraffe.png" width="100"/></td>
-        <td align="center"><img src="assets/example/girl_dog.png" width="100"/></td>
-        <td align="center"><img src="assets/example/00274.png" width="100"/></td>
-        <td align="center"><img src="assets/example/01035.png" width="100"/></td>
-        <td align="center"><img src="assets/example/00606.png" width="100"/></td>
-        <td align="center"><img src="assets/example/00329.png" width="100"/></td>
-        <td align="center"><img src="assets/example/02508.png" width="100"/></td>
+        <td align="center"><img src="assets/example/cat.png" width="160"/></td>
+        <td align="center"><img src="assets/example/giraffe.png" width="160"/></td>
+        <td align="center"><img src="assets/example/girl_dog.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00274.png" width="160"/></td>
+        <td align="center"><img src="assets/example/01035.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00606.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00329.png" width="160"/></td>
+        <td align="center"><img src="assets/example/02508.png" width="160"/></td>
     </tr>
 </table>
 
@@ -185,14 +185,14 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 <!-- 第三行：对应的GIF文件 -->
 <table>
     <tr>
-        <td align="center"><img src="assets/example/cat_snake.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/two_giraffes.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/girl_dog.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/00274.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/01035.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/00606.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/00329.gif" width="100"/></td>
-        <td align="center"><img src="assets/example/02508.gif" width="100"/></td>
+        <td align="center"><img src="assets/example/cat_snake.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/two_giraffes.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/girl_dog.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/00274.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/01035.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/00606.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/00329.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/02508.gif" width="160"/></td>
     </tr>
 </table>
 
