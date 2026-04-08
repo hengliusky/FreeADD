@@ -23,7 +23,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
   <img src="assets/example/image1.png "width="100%"/>
   <img src="assets/example/image2.png "width="100%"/>
 </div> -->
-<font size="13">We present some comparisons of image-to-video (I2V) generation results from our FreeDeMo with those from Wan2.1-14B, Hunyuan-13B and CogVideoX.</font>
+<font size="13">We present some comparisons of image-to-video (I2V) generation results from our FreeADD with those from Wan2.1-14B, Hunyuan-13B and CogVideoX.</font>
 <div align="center">
   <table>
     <tr>
@@ -138,37 +138,90 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 </div>
 
 ## Ground-truth videos for FVD
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px;">
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/cat.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/giraffe.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/girl_dog.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/00274.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/01035.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/00606.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/00329.png" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/02508.png" width="160"></div>
-</div>
-
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px; margin: 8px 0;">
-    <div style="min-width:160px; text-align:center;">The cat is screaming, the snake is crawling.</div>
-    <div style="min-width:160px; text-align:center;">Two giraffes are slowly lowering their heads.</div>
-    <div style="min-width:160px; text-align:center;">The little girl is crawling forward, and the dog is running forward.</div>
-    <div style="min-width:160px; text-align:center;">The boy lookes at the girl, and the girl is smiling.</div>
-    <div style="min-width:160px; text-align:center;">The cow is eating grass and the dog is running forward.</div>
-    <div style="min-width:160px; text-align:center;">The boy takes off his glasses, and the girl is smiling.</div>
-    <div style="min-width:160px; text-align:center;">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</div>
-    <div style="min-width:160px; text-align:center;">The boy is reading a book while the dog opens its mouth and barks.</div>
-</div>
-
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px;">
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/cat_snake.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/two_giraffes.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/girl_dog.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/00274.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/01035.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/00606.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/00329.gif" width="160"></div>
-    <div style="min-width:160px; text-align:center;"><img src="assets/example/02508.gif" width="160"></div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><b>Reference Image</b></td>
+      <td align="center" width="250px">
+        <img src="assets/example/cat.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/giraffe.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/girl_dog.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/00274.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/01035.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/00606.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/00329.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/02508.png" width="160"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Text Prompt</b></td>
+      <td align="center">
+        <b>The cat is screaming, the snake is crawling.</b><br/>
+      </td>
+      <td align="center">
+        <b>Two giraffes are slowly lowering their heads.</b><br/>
+      </td>
+      <td align="center">
+       <b>The little girl is crawling forward, and the dog is running forward.</b>
+      </td>
+      <td align="center">
+       <b>The boy lookes at the girl, and the girl is smiling.</b>
+      </td>
+      <td align="center">
+        <b>The cow is eating grass and the dog is running forward.</b><br/>
+      </td>
+      <td align="center">
+        <b>The boy takes off his glasses, and the girl is smiling.</b><br/>
+      </td>
+      <td align="center">
+       <b>The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</b>
+      </td>
+      <td align="center">
+       <b>The boy is reading a book while the dog opens its mouth and barks.</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>GT Videos</b></td>
+      <td align="center">
+        <img src="assets/example/cat_snake.gif" width="160"/>
+      </td>
+      <td align="center">
+        <img src="assets/example/two_giraffes.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/girl_dog.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/00274.gif" width="160"/>
+      </td>
+      <td align="center">
+        <img src="assets/example/01035.gif" width="160"/>
+      </td>
+      <td align="center">
+        <img src="assets/example/00606.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/00329.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/02508.gif" width="160"/>
+      </td>
+    </tr>
+  </table>
 </div>
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
