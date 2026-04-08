@@ -156,14 +156,14 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 <!-- 注意：这里使用了8个单元格，每个单元格里放对应的文本，以保持垂直对齐 -->
 <table>
     <tr>
-        <td align="center" width="12.5%">The cat is screaming, the snake is crawling.</td>
-        <td align="center" width="12.5%">Two giraffes are slowly lowering their heads.</td>
-        <td align="center" width="12.5%">The little girl is crawling forward, and the dog is running forward.</td>
-        <td align="center" width="12.5%">The boy lookes at the girl, and the girl is smiling.</td>
-        <td align="center" width="12.5%">The cow is eating grass and the dog is running forward.</td>
-        <td align="center" width="12.5%">The boy takes off his glasses, and the girl is smiling.</td>
-        <td align="center" width="12.5%">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</td>
-        <td align="center" width="12.5%">The boy is reading a book while the dog opens its mouth and barks.</td>
+        <td align="center" width="160">The cat is screaming, the snake is crawling.</td>
+        <td align="center" width="160">Two giraffes are slowly lowering their heads.</td>
+        <td align="center" width="160">The little girl is crawling forward, and the dog is running forward.</td>
+        <td align="center" width="160">The boy lookes at the girl, and the girl is smiling.</td>
+        <td align="center" width="160">The cow is eating grass and the dog is running forward.</td>
+        <td align="center" width="160">The boy takes off his glasses, and the girl is smiling.</td>
+        <td align="center" width="160">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</td>
+        <td align="center" width="160">The boy is reading a book while the dog opens its mouth and barks.</td>
     </tr>
 </table>
 
