@@ -13,10 +13,10 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 <img src="assets/example/model.png" alt="FreeDeMo">
 
 # Results
-<font size="13">In this table, we compare state-of-the-art methods in terms of CTC-PSNR, LPIPS, FVD, and Trainable/Total parameters. The best results are highlighted in blue bold, while the second-best results are in green bold.</font>
+<!-- <font size="13">In this table, we compare state-of-the-art methods in terms of CTC-PSNR, LPIPS, FVD, and Trainable/Total parameters. The best results are highlighted in blue bold, while the second-best results are in green bold.</font>
 <div align="center">
   <img src="assets/example/index.png" width="100%"/>
-</div>
+</div> -->
 <font size="13">Below, we present some of the effects achieved through our work.</font>
 <img src="https://github.com/hengliusky/FreeADD/blob/main/assets/example/show.png" alt="FreeADD">
 <!-- <div align="center">
@@ -137,7 +137,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
   </table>
 </div>
 
-## Ground-truth videos for FVD/FID
+## Ground-truth videos for FVD
 <!-- <div align="center">
 <table>
     <tr>
