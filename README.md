@@ -63,7 +63,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>FreeDeMo(Ours)</b></td>
+      <td align="center" width="120"><b>FreeADD(Ours)</b></td>
       <td align="center">
         <img src="assets/example/003_loop.gif" width="160"/>
       </td>
