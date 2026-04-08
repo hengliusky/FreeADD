@@ -139,7 +139,72 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 
 ## Ground-truth videos for FVD
 <!-- 第一行：8张图片 -->
+<!-- <table>
+    <tr>
+        <td align="center"><img src="assets/example/cat.png" width="160"/></td>
+        <td align="center"><img src="assets/example/giraffe.png" width="160"/></td>
+        <td align="center"><img src="assets/example/girl_dog.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00274.png" width="160"/></td>
+        <td align="center"><img src="assets/example/01035.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00606.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00329.png" width="160"/></td>
+        <td align="center"><img src="assets/example/02508.png" width="160"/></td>
+    </tr>
+</table> -->
+<!-- 第二行：对应的文本 -->
+<!-- 注意：这里使用了8个单元格，每个单元格里放对应的文本，以保持垂直对齐 -->
+<!-- <table>
+    <tr>
+        <td align="center" width="160">The cat is screaming, the snake is crawling.</td>
+        <td align="center" width="160">Two giraffes are slowly lowering their heads.</td>
+        <td align="center" width="160">The little girl is crawling forward, and the dog is running forward.</td>
+        <td align="center" width="160">The boy lookes at the girl, and the girl is smiling.</td>
+        <td align="center" width="160">The cow is eating grass and the dog is running forward.</td>
+        <td align="center" width="160">The boy takes off his glasses, and the girl is smiling.</td>
+        <td align="center" width="160">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</td>
+        <td align="center" width="160">The boy is reading a book while the dog opens its mouth and barks.</td>
+    </tr>
+</table> -->
+<!-- 第三行：对应的GIF文件 -->
+<!-- <table>
+    <tr>
+        <td align="center"><img src="assets/example/cat_snake.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/two_giraffes.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/girl_dog.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/00274.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/01035.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/00606.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/00329.gif" width="160"/></td>
+        <td align="center"><img src="assets/example/02508.gif" width="160"/></td>
+    </tr>
+</table> -->
+
 <table>
+    <!-- 第一行：图片 -->
+    <tr>
+        <td align="center"><img src="assets/example/cat.png" width="160"/></td>
+        <td align="center"><img src="assets/example/giraffe.png" width="160"/></td>
+        <td align="center"><img src="assets/example/girl_dog.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00274.png" width="160"/></td>
+        <td align="center"><img src="assets/example/01035.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00606.png" width="160"/></td>
+        <td align="center"><img src="assets/example/00329.png" width="160"/></td>
+        <td align="center"><img src="assets/example/02508.png" width="160"/></td>
+    </tr>
+    
+    <!-- 第二行：文本 -->
+    <tr>
+        <td align="center" valign="middle" height="60">The cat is screaming, the snake is crawling.</td>
+        <td align="center" valign="middle" height="60">Two giraffes are slowly lowering their heads.</td>
+        <td align="center" valign="middle" height="60">The little girl is crawling forward, and the dog is running forward.</td>
+        <td align="center" valign="middle" height="60">The boy lookes at the girl, and the girl is smiling.</td>
+        <td align="center" valign="middle" height="60">The cow is eating grass and the dog is running forward.</td>
+        <td align="center" valign="middle" height="60">The boy takes off his glasses, and the girl is smiling.</td>
+        <td align="center" valign="middle" height="60">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</td>
+        <td align="center" valign="middle" height="60">The boy is reading a book while the dog opens its mouth and barks.</td>
+    </tr>
+
+    <!-- 第三行：GIF -->
     <tr>
         <td align="center"><img src="assets/example/cat.png" width="160"/></td>
         <td align="center"><img src="assets/example/giraffe.png" width="160"/></td>
@@ -151,36 +216,6 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
         <td align="center"><img src="assets/example/02508.png" width="160"/></td>
     </tr>
 </table>
-
-<!-- 第二行：对应的文本 -->
-<!-- 注意：这里使用了8个单元格，每个单元格里放对应的文本，以保持垂直对齐 -->
-<table>
-    <tr>
-        <td align="center" width="160">The cat is screaming, the snake is crawling.</td>
-        <td align="center" width="160">Two giraffes are slowly lowering their heads.</td>
-        <td align="center" width="160">The little girl is crawling forward, and the dog is running forward.</td>
-        <td align="center" width="160">The boy lookes at the girl, and the girl is smiling.</td>
-        <td align="center" width="160">The cow is eating grass and the dog is running forward.</td>
-        <td align="center" width="160">The boy takes off his glasses, and the girl is smiling.</td>
-        <td align="center" width="160">The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</td>
-        <td align="center" width="160">The boy is reading a book while the dog opens its mouth and barks.</td>
-    </tr>
-</table>
-
-<!-- 第三行：对应的GIF文件 -->
-<table>
-    <tr>
-        <td align="center"><img src="assets/example/cat_snake.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/two_giraffes.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/girl_dog.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/00274.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/01035.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/00606.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/00329.gif" width="160"/></td>
-        <td align="center"><img src="assets/example/02508.gif" width="160"/></td>
-    </tr>
-</table>
-
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
 ```
