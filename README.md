@@ -138,21 +138,6 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
 </div>
 
 ## Ground-truth videos for FVD
-<!-- <div align="center">
-<table>
-    <tr>
-      <td align="center">
-        <img src="assets/example/cat_snake.gif" width="160"/>
-      </td>
-      <td align="center">
-        <img src="assets/example/two_giraffes.gif" width="160"/>
-      </td>
-      <td align="center">
-        <img src="assets/example/girl_dog.gif" width="160"/>
-      </td>
-   </tr>
-</table>
-</div> -->
 <!-- 第一行：8张图片 -->
 <table>
     <tr>
