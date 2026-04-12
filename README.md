@@ -198,6 +198,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
     </tr>
   </table>
 </div>
+
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
 ```
