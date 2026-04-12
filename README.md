@@ -137,20 +137,11 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
   </table>
 </div>
 
-## Ground-truth videos for FVD/CTC-PSNR/LPIPS
+## Some Ground-truth videos for FVD/CTC-PSNR/LPIPS
 <div align="center">
   <table>
     <tr>
       <td align="center" width="120"><b>Reference Image</b></td>
-      <td align="center" width="250px">
-        <img src="assets/example/cat.png" width="160"/>
-      </td>
-      <td align="center" width="250px">
-        <img src="assets/example/giraffe.png" width="160"/>
-      </td>
-      <td align="center" width="250px">
-        <img src="assets/example/girl_dog.png" width="160"/>
-      </td>
       <td align="center" width="250px">
         <img src="assets/example/00274.png" width="160"/>
       </td>
@@ -169,15 +160,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
     </tr>
     <tr>
       <td align="center" width="120"><b>Text Prompt</b></td>
-      <td align="center">
-        <b>The cat is screaming, the snake is crawling.</b><br/>
-      </td>
-      <td align="center">
-        <b>Two giraffes are slowly lowering their heads.</b><br/>
-      </td>
-      <td align="center">
-       <b>The little girl is crawling forward, and the dog is running forward.</b>
-      </td>
+      
       <td align="center">
        <b>The boy lookes at the girl, and the girl is smiling.</b>
       </td>
@@ -196,15 +179,7 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
     </tr>
     <tr>
       <td align="center" width="120"><b>Ground-truth videos</b></td>
-      <td align="center">
-        <img src="assets/example/cat_snake.gif" width="160"/>
-      </td>
-      <td align="center">
-        <img src="assets/example/two_giraffes.gif" width="160"/>
-      </td>
-      <td align="center">
-         <img src="assets/example/girl_dog.gif" width="160"/>
-      </td>
+      
       <td align="center">
          <img src="assets/example/00274.gif" width="160"/>
       </td>
