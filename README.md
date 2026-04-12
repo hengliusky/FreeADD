@@ -161,16 +161,16 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
     <tr>
       <td align="center" width="120"><b>Text Prompt</b></td>
       <td align="center">
-       <b>The boy lookes at the girl, and the girl is smiling.</b>
+       <b>The boy lookes at the girl, the girl is smiling.</b>
       </td>
       <td align="center">
         <b>The cow is eating grass and the dog is running forward.</b><br/>
       </td>
       <td align="center">
-        <b>The boy takes off his glasses, and the girl is smiling.</b><br/>
+        <b>The boy takes off his glasses, the girl is smiling.</b><br/>
       </td>
       <td align="center">
-       <b>The duck in front swam forward, the middle duck shook its head, and the last duck inserted its head into the water.</b>
+       <b>The duck in front swam forward, the middle duck shook its head, the last duck inserted its head into the water.</b>
       </td>
       <td align="center">
        <b>The boy is reading a book while the dog opens its mouth and barks.</b>
