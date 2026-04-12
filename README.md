@@ -160,7 +160,6 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
     </tr>
     <tr>
       <td align="center" width="120"><b>Text Prompt</b></td>
-      
       <td align="center">
        <b>The boy lookes at the girl, and the girl is smiling.</b>
       </td>
@@ -179,7 +178,6 @@ This repo contains the codebase for "FreeADD: A Training-Free Attention Decouple
     </tr>
     <tr>
       <td align="center" width="120"><b>Ground-truth videos</b></td>
-      
       <td align="center">
          <img src="assets/example/00274.gif" width="160"/>
       </td>
